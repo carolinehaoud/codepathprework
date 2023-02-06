@@ -4,7 +4,7 @@ Submitted by: **Caroline Haoud**
 
 **My Application for Code Path: Intermediate Android Development Course** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **3** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Gif](https://github.com/carolinehaoud/codepathprework/blob/main/Peek%202023-02-05%2023-36.gif)
+<img src="/?raw=true" width="200px">
 
 GIF created with [peek](https://github.com/phw/peek) for Linux.
 
