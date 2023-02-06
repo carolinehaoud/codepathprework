@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/8uQ6GJD' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/8uQ6GJD' title='Video Walkthrough' width='30px' alt='Video Walkthrough' />
 
 GIF created with ...  
 [peek](https://github.com/phw/peek) for Linux.
