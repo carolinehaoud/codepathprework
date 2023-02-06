@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="/?raw=true" width="200px">
+<img src="/App.gif?raw=true" width="200px">
 
 GIF created with [peek](https://github.com/phw/peek) for Linux.
 
